@@ -1,0 +1,77 @@
+baseURL = 'https://www.pu2whm.com/'
+theme = "LoveIt"
+languageCode = ['pt-br', 'en']
+languageName = ['Português Brasileiro', 'English']
+title = "PU2WHM"
+
+defaultContentLanguage = 'pt-br'
+
+[author]
+  name = "Henrique"
+  email = "henrique@pu2whm.com"
+
+[languages]
+  [languages.pt-br]
+    weight = 1
+    languageCode = "pt-br"
+    languageName = "Português"
+  [languages.en]
+    weight = 2
+    languageCode = "en"
+    languageName = "English"
+
+# Menu config
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    pre = ""
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    title = ""
+  [[menu.main]]
+    weight = 2
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+  [[menu.main]]
+    weight = 3
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = ""
+
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+
+[params]
+  title = "PU2WHM"
+  description = "This is my personal knowledge"
+  [params.home]
+    [params.home.profile]
+      avatarURL = "/images/avatar.png"
+      subtitle = "This is my personal knowledge-base and experiences"
+  [params.header]
+    [params.header.title]
+      name = "PU2WHM"
+      pre = "<i class='fa-solid fa-tower-broadcast' aria-hidden='true'></i>"
+
