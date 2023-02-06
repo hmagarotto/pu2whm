@@ -12,8 +12,12 @@ A Anatel disponibiliza abertamente os dados de estações licenciadas no Brasil,
 >
 > <cite>https://www.gov.br/anatel/pt-br/dados/dados-abertos</cite>
 
-Para facilitar a consulta destes dados, converti alguns desses dados para um formato simples consultar quando offline e compartilhar.
-Futuramente devo colocar aqui neste post os dados tabelados.
+Com o uso destes dados é possível encontrar estações licenciadas de diferentes tipos, comerciais ou de serviços públicos.
+A Anatel também disponibiliza arquivos com informações sobre estações de Rádio Cidadão e Radioamador.
+
+Para quem gosta de fazer rádioescuta ou procurar estações com um SDR, estas informações podem ser úteis para dar uma direção do que encontrar e ouvir nas proximidades da sua cidade.
+
+Para facilitar a consulta, converti alguns desses dados para um formato simples de consultar e compartilhar mesmo quando offline.
 
 ---
 
