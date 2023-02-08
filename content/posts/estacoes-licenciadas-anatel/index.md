@@ -2,10 +2,11 @@
 title: "Anatel - Estações Licenciadas"
 date: 2023-02-05T10:00:00-03:00
 draft: false
-tags: ['anatel']
+tags: ['anatel', 'sdr']
 categories: ['Anatel']
 ---
 
+## Anatel - Dados Abertos
 A Anatel disponibiliza abertamente os dados de estações licenciadas no Brasil, segundo a Anatel:
 
 > Dados abertos são dados acessíveis ao público, representados em meio digital, estruturados em formato aberto (não proprietário), processáveis por máquina, referenciados na internet e disponibilizados sob licença aberta que permita sua livre utilização, consumo ou cruzamento, limitando-se a creditar a autoria ou a fonte.
@@ -16,6 +17,8 @@ Com o uso destes dados é possível encontrar estações licenciadas de diferent
 A Anatel também disponibiliza arquivos com informações sobre estações de Rádio Cidadão e Radioamador.
 
 Para quem gosta de fazer rádioescuta ou procurar estações com um SDR, estas informações podem ser úteis para dar uma direção do que encontrar e ouvir nas proximidades da sua cidade.
+
+## Arquivos consolidados por Estado
 
 Para facilitar a consulta, converti alguns desses dados para um formato simples de consultar e compartilhar mesmo quando offline.
 
