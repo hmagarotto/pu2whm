@@ -22,8 +22,6 @@ Para quem gosta de fazer rádioescuta ou procurar estações com um SDR, estas i
 
 Para facilitar a consulta, converti alguns desses dados para um formato simples de consultar e compartilhar mesmo quando offline.
 
----
-
 Arquivos disponívies:
 
 - [AC](./AC-estacoes-licenciadas.html)
