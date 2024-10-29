@@ -4,6 +4,10 @@ title = "PU2WHM"
 
 defaultContentLanguage = 'pt-br'
 
+[author]
+    name = "Henrique"
+    email = "henrique@pu2whm.com"
+
 [languages]
   [languages.pt-br]
     weight = 1
