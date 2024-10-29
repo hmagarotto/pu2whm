@@ -1,7 +1,5 @@
 baseURL = 'https://www.pu2whm.com/'
 theme = "LoveIt"
-languageCode = ['pt-br', 'en']
-languageName = ['Português Brasileiro', 'English']
 title = "PU2WHM"
 
 defaultContentLanguage = 'pt-br'
@@ -14,7 +12,7 @@ defaultContentLanguage = 'pt-br'
   [languages.pt-br]
     weight = 1
     languageCode = "pt-br"
-    languageName = "Português"
+    languageName = "Português Brasileiro"
   [languages.en]
     weight = 2
     languageCode = "en"
@@ -62,6 +60,9 @@ defaultContentLanguage = 'pt-br'
   [markup.highlight]
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
   title = "PU2WHM"
