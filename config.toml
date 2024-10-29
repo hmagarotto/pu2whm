@@ -4,10 +4,6 @@ title = "PU2WHM"
 
 defaultContentLanguage = 'pt-br'
 
-[author]
-  name = "Henrique"
-  email = "henrique@pu2whm.com"
-
 [languages]
   [languages.pt-br]
     weight = 1
@@ -67,6 +63,9 @@ unsafe = true
 [params]
   title = "PU2WHM"
   description = "This is my personal knowledge"
+  [params.author]
+    name = "Henrique"
+    email = "henrique@pu2whm.com"
   [params.home]
     [params.home.profile]
       avatarURL = "/images/avatar.png"
