@@ -50,3 +50,6 @@ Os dados podem não estar atualizados com a lista da Anatel, além disso a Anate
 |SÃO PAULO|[**0.9%**<br>6/676](https://hmagarotto.github.io/anatel-indicativo-livre/classe%20AB2%20-%20S%C3%83O%20PAULO.csv)|[**86.6%**<br>14044/16216](https://hmagarotto.github.io/anatel-indicativo-livre/classe%20AB3%20-%20S%C3%83O%20PAULO.csv)|[**9.3%**<br>883/9457](https://hmagarotto.github.io/anatel-indicativo-livre/classe%20C%20-%20S%C3%83O%20PAULO.csv)|
 |SERGIPE|[**84.2%**<br>569/676](https://hmagarotto.github.io/anatel-indicativo-livre/classe%20AB2%20-%20SERGIPE.csv)|[**99.7%**<br>16163/16216](https://hmagarotto.github.io/anatel-indicativo-livre/classe%20AB3%20-%20SERGIPE.csv)|[**96.6%**<br>5876/6083](https://hmagarotto.github.io/anatel-indicativo-livre/classe%20C%20-%20SERGIPE.csv)|
 |TOCANTINS|[**97.8%**<br>661/676](https://hmagarotto.github.io/anatel-indicativo-livre/classe%20AB2%20-%20TOCANTINS.csv)|[**99.9%**<br>16205/16216](https://hmagarotto.github.io/anatel-indicativo-livre/classe%20AB3%20-%20TOCANTINS.csv)|[**97.2%**<br>1314/1352](https://hmagarotto.github.io/anatel-indicativo-livre/classe%20C%20-%20TOCANTINS.csv)|
+
+
+Para dicas de como escolher e como verificar os indicativos livres: https://qtc.ecra.club/p/como-escolher-seu-indicativo-de.html
