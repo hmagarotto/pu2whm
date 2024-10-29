@@ -10,7 +10,7 @@ toc: false
 ## Objetivo
 Este levantamento tem o objetivo de facilitar na escolha do indicativo ao licenciar uma nova estação de radioamador.
 
-É possível escolher o indicativo usando a busca no [site da Anatel](https://sistemas.anatel.gov.br/easp/Novo/ConsultaIndicativo/Tela.asp) e fazendo tentativas de busca para encontrar um indicativo livre, mas este método pode ser demorado e em alguns casos quase impossível de encontrar um indicativo livre.
+É possível escolher o indicativo usando a busca no [site da Anatel](https://sistemas.anatel.gov.br/easp/Novo/ConsultaIndicativo/Tela.asp) e fazendo tentativas de busca para encontrar um indicativo livre, mas este método pode ser demorado e em alguns casos quase impossível de encontrar um indicativo livre. Existe também uma [ferramenta da Anatel para listar os indicativos livres](https://sistemas.anatel.gov.br/scra/ConsultaIndicativoVagoOcupado/Tela.asp), mas não facilita a escolha.
 
 ## Indicativos livres por estado e classe
 
