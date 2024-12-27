@@ -21,6 +21,9 @@ Clique no link com o estado e classe desejado para baixar um arquivo com todos o
 
 Os dados podem não estar atualizados com a lista da Anatel, além disso a Anatel pode atrasar para entregar as atualizações. Portanto, lembre-se que sempre é necessário depois de encontrar um indicativo validar no site da Anatel se este realmente está livre.
 
+**Sempre verifique o indicativo escolhido no sistema [SCRA da Anatel](https://sistemas.anatel.gov.br/scra/ConsultaIndicativoVagoOcupado/Tela.asp), é o único local confiável.**
+
+*A data de criação dos arquivos esta no cabeçalho dos arquivos, eles são atualizados de forma independente deste post.*
 
 | Estado     | Classes A ou B<br>(2 letras) | Classes A ou B<br>(3 letras) | Classe C |
 | ---------- | :-------------------------: | :-------------------------: | :--------: |
