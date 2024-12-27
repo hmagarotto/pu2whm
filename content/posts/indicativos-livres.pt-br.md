@@ -11,7 +11,7 @@ toc: false
 
 Este levantamento tem o objetivo de facilitar na escolha do indicativo ao licenciar uma nova estação de radioamador.
 
-É possível escolher o indicativo usando a busca no [site da Anatel](https://sistemas.anatel.gov.br/easp/Novo/ConsultaIndicativo/Tela.asp) e fazendo tentativas de busca para encontrar um indicativo livre, mas este método pode ser demorado e em alguns casos quase impossível de encontrar um indicativo livre. Existe também uma [ferramenta da Anatel para listar os indicativos livres](https://sistemas.anatel.gov.br/scra/ConsultaIndicativoVagoOcupado/Tela.asp), mas não facilita a escolha.
+É possível escolher o indicativo usando a busca no [EASP](https://sistemas.anatel.gov.br/easp/Novo/ConsultaIndicativo/Tela.asp) e fazendo tentativas de busca para encontrar um indicativo livre, mas este método pode ser demorado e em alguns casos quase impossível de encontrar um indicativo livre. Existe também uma [ferramenta da Anatel para listar os indicativos livres no SCRA](https://apps.anatel.gov.br/), mas não facilita a busca por ser lento ao listar os indicativos disponíveis.
 
 ## Indicativos livres por estado e classe
 
@@ -21,7 +21,7 @@ Clique no link com o estado e classe desejado para baixar um arquivo com todos o
 
 Os dados podem não estar atualizados com a lista da Anatel, além disso a Anatel pode atrasar para entregar as atualizações. Portanto, lembre-se que sempre é necessário depois de encontrar um indicativo validar no site da Anatel se este realmente está livre.
 
-**Sempre verifique o indicativo escolhido no sistema [SCRA da Anatel](https://sistemas.anatel.gov.br/scra/ConsultaIndicativoVagoOcupado/Tela.asp), é o único local confiável.**
+**Sempre verifique o indicativo escolhido no sistema [SCRA da Anatel](https://apps.anatel.gov.br/), é o único local confiável.**
 
 *A data de criação dos arquivos esta no cabeçalho dos arquivos, eles são atualizados de forma independente deste post.*
 
