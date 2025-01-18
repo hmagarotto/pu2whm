@@ -12,6 +12,8 @@ A Anatel disponibiliza abertamente os dados de estações licenciadas no Brasil,
 > Dados abertos são dados acessíveis ao público, representados em meio digital, estruturados em formato aberto (não proprietário), processáveis por máquina, referenciados na internet e disponibilizados sob licença aberta que permita sua livre utilização, consumo ou cruzamento, limitando-se a creditar a autoria ou a fonte.
 >
 > <cite>https://www.gov.br/anatel/pt-br/dados/dados-abertos</cite>
+>
+> <cite>https://www.anatel.gov.br/dadosabertos/paineis_de_dados/outorga_e_licenciamento/estacoes_licenciadas.zip</cite>
 
 Com o uso destes dados é possível encontrar estações licenciadas de diferentes tipos, comerciais ou de serviços públicos.
 A Anatel também disponibiliza arquivos com informações sobre estações de Rádio Cidadão e Radioamador.
