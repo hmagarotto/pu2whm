@@ -1,7 +1,7 @@
 ---
 title: "Indicativos Livres"
 date: 2024-10-29T04:46:00-03:00
-draft: false
+draft: draft
 tags: ['anatel']
 categories: ['Anatel']
 toc: false
